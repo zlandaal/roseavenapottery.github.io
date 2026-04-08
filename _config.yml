@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/roseavenapottery/"
     - label: "Substack  Newsletter"
-      icon: "fab fa-fw fa-envelope-open"
+      icon: "fas fa-fw fa-envelope"
       url: "https://roseavenapottery.substack.com/"
 
 footer:
@@ -80,8 +80,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/roseavenapottery/"
-    - label: "Substack  Newsletter"
-      icon: "fab fa-fw fa-envelope-open"
+    - label: "Substack Newsletter"
+      icon: "fas fa-fw fa-envelope"
       url: "https://roseavenapottery.substack.com/"
 
 defaults:
