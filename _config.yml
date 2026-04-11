@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 minimal_mistakes_skin: default
 search: true
 
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -59,7 +60,7 @@ plugins:
 
 author:
   name   : "Tasha Avena"
-  avatar : "/assets/images/AFFF3642.JPEG"
+  avatar : "/assets/images/logo.PNG"
   bio    : "I do pottery, sculpture, painting, drawing, and all kinds of crafts! I draw inspiration from nature and try to incorporate different mediums together to find interesting new styles."
   links:
     - label: "Etsy"
@@ -110,3 +111,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+logo: /assets/images/logo2.PNG
